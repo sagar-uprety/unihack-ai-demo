@@ -1,0 +1,5 @@
+{
+  "name": "LEGO Raffle Winner Picker",
+  "description": "A visually engaging raffle winner selector with a fun LEGO theme. Enter participant names and watch as LEGO bricks shuffle to reveal the lucky winner with a celebratory confetti effect.",
+  "requestFramePermissions": []
+}
